@@ -1,0 +1,23 @@
+
+Uploaded is a copy of Java application using netbeans.
+
+-> Please extract the .rar file to your NetbeansProjects repository or any other path.
+-> Open the project using Netbeans IDE.
+-> To access the source code, Navigate to Source Packages -> App1 -> App1.java 
+-> Make sure that the input File location/path and File Name are hard coded. So, please provide your inputs in the
+   below mentioned path.
+
+Path: C:\\Graph.txt
+FileName: Graph.txt
+
+
+I've also uploaded a couple of graph examples with UFOs for testing. You can find them in Sample Graphs.rar folder.
+
+OR
+
+I've provided .java file for execution using command prompt.
+The same graph samples can be used from the same location.
+
+
+Thank you. 
+
